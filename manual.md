@@ -1,1 +1,3 @@
-# Hello Git!
+# こんにちは　 Git！
+
+## こんにちは GitHub!
